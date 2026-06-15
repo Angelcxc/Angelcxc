@@ -1,7 +1,9 @@
-- # Angelicxc
+ # Angelicxc
 
-\title{what}
+ \title{what}
 
-- $$Aquamarine\{b0c0bc}{Hello, World!}$$ 
+<span style="color:#ff0000">This is red text</span>
 
-- <color>#b0c0bc</color>
+ $$Aquamarine\{b0c0bc}{Hello, World!}$$ 
+
+ <color>#b0c0bc</color>
