@@ -1,3 +1,3 @@
 # Angelicxc
 
-$$Aquamarine\{#b0c0bc}{text}$$ 
+$$Aquamarine\{b0c0bc}{Hello Everynyawn}$$ 
