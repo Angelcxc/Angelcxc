@@ -1,9 +1,5 @@
  # Angelicxc
 
- \title{what}
+$${\color{#C1EDCC}Color \space \color{#B0C0BC}your \space \color{A7A7A9}.md \space file \space \color{#DA9F93}in \space Github}$$
 
-<span style="color:#ff0000">This is red text</span>
-
- $$Aquamarine\{b0c0bc}{Hello, World!}$$ 
-
- <color>#b0c0bc</color>
+A7A7A9
